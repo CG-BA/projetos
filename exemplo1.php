@@ -9,8 +9,8 @@
 		$nome = "Aline";
 		$nome2 = "Maria";
 		$nome3 = "Jõao";
-		$numero = 10;
-		$numero2 = 10.5;
+		$numero = $_GET[];
+		$numero2 = $_GET[];
 		/*$ = variavel
 		Na liguagem php não se pode iniciar uma variavel com: numero ou espaço.
 		Expl.erro1: $ nome;
